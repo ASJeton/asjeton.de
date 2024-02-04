@@ -200,3 +200,4 @@ jekyll-archives:
 
 plugins:
   - jekyll-target-blank # external links in new tab
+  - jekyll-paginate
