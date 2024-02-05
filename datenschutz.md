@@ -2,7 +2,6 @@
 layout: page
 title:  "Datenschutzerklärung"
 author: bernhard
-category: datenschutz "data privacy" privacy
 date:   2024-02-03 01:54:04 +0000
 permalink: /datenschutz
 ---

@@ -3,6 +3,7 @@ layout: post
 title:  "ASJETON hat eine neue Heimat"
 date:   2024-02-04 23:10:04 +0100
 categories: asjeton update
+tags: 2024 Webseite segel.de/jeton
 author: bernhard
 ---
 Die Webseite der Klassenvereingung der Jetonsegeler Deutschlands e.V. (ASJETON) wurde lange durch das Portal [Segel.de](https://segel.de) zur Verfügung gestellt. Danke dafür.

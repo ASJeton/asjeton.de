@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title:  "Impressum"
 author: bernhard
-category: impressum
 date:   2024-02-03 01:44:04 +0000
 permalink: /impressum
 ---
