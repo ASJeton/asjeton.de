@@ -6,7 +6,7 @@ date:   2024-02-03 01:54:04 +0000
 permalink: /datenschutz
 ---
 ## Rechtshinweis  
- Die Informationen auf diesen Webseiten werden von der Asjeton e.V. ständig geprüft und aktualisiert. Trotz aller Sorgfalt können sich aber Angaben zwischenzeitlich verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit  und Vollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden. Gleiches gilt auch für alle Websites, auf die mittels eines Hyperlinks verwiesen wird. Für den Inhalt der Websites, die mit einer solchen Ver- bindung erreicht werden, ist die Asheton e.V. nicht verantwortlich. 
+ Die Informationen auf diesen Webseiten werden von der Asjeton e.V. ständig geprüft und aktualisiert. Trotz aller Sorgfalt können sich aber Angaben zwischenzeitlich verändert haben. Eine Haftung oder Garantie für die Aktualität, Richtigkeit  und Vollständigkeit der zur Verfügung gestellten Informationen kann daher nicht übernommen werden. Gleiches gilt auch für alle Websites, auf die mittels eines Hyperlinks verwiesen wird. Für den Inhalt der Websites, die mit einer solchen Verbindung erreicht werden, ist die Asjeton e.V. nicht verantwortlich. 
 
  Des Weiteren behält sich die Asjeton e.V. das Recht vor, an den bereitgestellten Informationen Änderungen oder Ergänzungen vorzunehmen.  
 
