@@ -8,5 +8,6 @@ author: bernhard
 Die Webseite der Klassenvereingung der Jetonsegeler Deutschlands e.V. (ASJETON) wurde lange durch das Portal [Segel.de](https://segel.de) zur Verfügung gestellt. Danke dafür.
 Jetzt ist die Klassenvereinigung unter [asjeton.de](https://asjeton.de) zu finden. **Bitte Weitersagen**. Es wird noch eine Weile dauern bis wir alle Stellen gefunden haben, die noch `http://segel.de/jeton` als Seite der Klassenvereinigung vermerkt haben.
 
-Wenn ihr eine Stelle findet die geändert werden muss gebt uns bitte Bescheid per [E-Mail](mailto:info@asjeton.de?Subject=Alter Link).
+Wenn ihr eine Stelle findet die geändert werden muss gebt uns bitte Bescheid per <a href="javascript:location.href='mailto:' + ['info','asjeton.de'].join('@') + '?Subject=Alter Link'" aria-label="email">E-Mail</a>.
 
+Das Übertragen der alten Inhalte wird noch etwas Zeit in Anspruch nehmen. Schaut also regamäßig vorbei oder abonniert den [Feed](/feed.xml)
