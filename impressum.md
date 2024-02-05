@@ -9,8 +9,7 @@ permalink: /impressum
 
 **Asjeton Deutschland e.V.**  
 Dachau
-
-**Email:** [info@asjeton.de](mailto:info@asjeton.de)  
+**E-Mail:** <a href="javascript:location.href='mailto:' + ['info','asjeton.de'].join('@')" aria-label="email">info # asjeton.de</a>   
 
 **Registergericht:** Amtsgerichts München  
 **Registernummer:** VR 20066  
