@@ -28,7 +28,7 @@ Feldstraße 8
 Markus Bachmann  
 Gottlieb-Dunkel-Str. 70   
 12099 Berlin  
-<a href="javascript:location.href='mailto:' + ['markus','kombinat-augenzeuge.web.de'].join('@')" aria-label="email">markus # kombinat-augenzeuge.de</a>  
+<a href="javascript:location.href='mailto:' + ['markus','kombinat-augenzeuge.de'].join('@')" aria-label="email">markus # kombinat-augenzeuge.de</a>  
 
 **Inhaltlicher Verantwortlicher im Sinne des § 18 Abs. 2 MStV**  
 Andreas Rademacher  
