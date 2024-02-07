@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Impressum"
 author: bernhard
 date:   2024-02-03 01:44:04 +0000
@@ -7,7 +7,7 @@ permalink: /impressum
 ---
 
 **Asjeton Deutschland e.V.**  
-Dachau
+Dachau  
 **E-Mail:** <a href="javascript:location.href='mailto:' + ['info','asjeton.de'].join('@')" aria-label="email">info # asjeton.de</a>   
 
 **Registergericht:** Amtsgerichts München  
