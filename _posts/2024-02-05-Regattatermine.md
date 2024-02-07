@@ -3,7 +3,7 @@ layout: post
 title: Regattatermine 2024
 date:   2024-02-05 17:10:00 +0100
 categories: regatta
-tags: Regatta 2024 Termine
+tags: Regatta 2024 Termine Ranglisten.net
 author: bernhard
 pin: true
 ---
@@ -23,3 +23,4 @@ Das bedeutet, das eine angemeldete Regatta Ranglistenstatus erhält, wenn bei ei
 |7		|12.-13.10.2024		|Senatspreis					   |1,2		|Unterhavel/Wannsee|BYC|
 
 
+Die Jeton Klasse hat eine [Ranglistenplanung](https://ranglisten.net/de/jeton/regattas) mit freundlicher Uunterstützung von [Ranglisten.net](https://ranglisten.net). Wer möchte kann sich dort eine Account anlegen und die Regattenteilnahme planen und auch einen Kalender abnonnieren.
