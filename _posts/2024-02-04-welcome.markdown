@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "ASJETON hat eine neue Heimat"
 date:   2024-02-04 23:10:04 +0100
 categories: asjeton update

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Regattatermine 2024
 date:   2024-02-05 17:10:00 +0100
 categories: regatta

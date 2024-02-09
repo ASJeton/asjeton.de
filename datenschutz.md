@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: single
 title:  "Datenschutzerklärung"
-author: bernhard
 date:   2024-02-03 01:54:04 +0000
 permalink: /datenschutz
 ---

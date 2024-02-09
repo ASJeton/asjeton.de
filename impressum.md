@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: single
 title:  "Impressum"
-author: bernhard
 date:   2024-02-03 01:44:04 +0000
 permalink: /impressum
 ---

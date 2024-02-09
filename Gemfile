@@ -1,7 +1,12 @@
 source "https://rubygems.org"
 
-gem "jekyll-remote-theme", group: [:jekyll_plugins]
-gem "jekyll-paginate"
-gem "jekyll-theme-chirpy"
+gem  "minimal-mistakes-jekyll","4.24.0" 
+#gem  "github-pages", group: :jekyll_plugins
+
+
 gem "jekyll-target-blank"
-gem "jekyll-email-protect"
+gem "jekyll-remote-theme",  group: [:jekyll_plugins]
+gem "jekyll-include-cache"
+gem "kramdown-parser-gfm"
+gem "webrick"
+

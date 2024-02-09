@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hostage-Valley-Lake-Challenge"
 date:   2023-09-17 10:00:00 +0100
 categories: regatta
