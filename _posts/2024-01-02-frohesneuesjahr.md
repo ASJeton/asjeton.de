@@ -5,6 +5,7 @@ categories: asjeton update
 tags: Neujahr 2024 Vorstand
 author: andreas
 pin: true
+classes: wide
 ---
 Liebe Segelfreunde und Mitglieder der Klassenvereinigung,
 
