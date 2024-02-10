@@ -1,0 +1,24 @@
+main:
+  - title: Klassenvereinigung
+    url: /kv
+  - title: Training
+    url: /traning
+  - title: Das Boot
+    url: /boot
+  - title: Kontakt
+    url: /kontakt
+sidebar-kv:
+  - title: "Klassenvereinigung"
+    children:
+      - title: "Wir über uns"
+        url: "/kv"
+      - title: "Vorstand"
+        url: /kv/vorstand
+      - title: "Satzung"
+        url: "/kv/satzung"
+      - title: "Die Jeton-Story"
+        url: "/kv/story"
+      - title: "Klassenvorschrift"
+        url: "/kv/vorschrift"
+      - title: "Mitglied:innen"
+        url: "/kv/mitglied"
