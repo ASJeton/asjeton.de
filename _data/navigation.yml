@@ -12,8 +12,8 @@ sidebar-kv:
     children:
       - title: "Wir über uns"
         url: "/kv"
-      - title: "Vorstand"
-        url: /kv/vorstand
+      - title: "Menschen"
+        url: /kv/menschen
       - title: "Satzung"
         url: "/kv/satzung"
       - title: "Die Jeton-Story"
