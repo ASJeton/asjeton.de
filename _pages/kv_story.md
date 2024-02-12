@@ -7,8 +7,9 @@ pagination: false
 sidebar:
   nav: sidebar-kv
 ---
-Der Jeton wurde 1970 von den Segel-Legenden Uwe Mares (mehrfacher Welt- und Europameister) und Hubert Raudaschl (zweifacher olympischer Silbermedaillen Gewinner Welt-, Europameister Titel in verschiedenen Klassen) entworfen und bei der Firma Klepper in Rosenheim gefertigt. Mit seiner einfachen Ausstattung, seiner robusten Ausführung und dem günstigen Preis sprach er ursprünglich eher den Freizeitsegler an. **Regattaklasse!**
-Bereits 1974 erhielt der Jeton den Status einer nationale Klasse.
+Der Jeton wurde 1970 von den Segel-Legenden Uwe Mares (mehrfacher Welt- und Europameister) und Hubert Raudaschl (zweifacher olympischer Silbermedaillen Gewinner Welt-, Europameister Titel in verschiedenen Klassen) entworfen und bei der Firma Klepper in Rosenheim gefertigt. Mit seiner einfachen Ausstattung, seiner robusten Ausführung und dem günstigen Preis sprach er ursprünglich eher den Freizeitsegler an.
+
+Auch schon in den 1970ern gab es eine Reihe von Regatten. Bereits 1974 erhielt der Jeton den Status einer nationalen Klasse.
 
 1980 aber wurde der Erfolg des Jetons unterbrochen: die Firma Klepper gab die Fertigung der Jetons auf. Seitdem hält die Bootswerft Gruben die Lizenz und fertigt Jetons, die eher den Freizeitsegler als den Regattasegler ansprechen. 
 
