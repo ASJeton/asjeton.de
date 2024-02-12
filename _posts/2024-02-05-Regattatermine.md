@@ -8,9 +8,9 @@ pin: true
 classes: wide
 ---
 Das Jahr 2024 ist im vollem Gange, die Urlaubsplanung steht an. Also allhöchste Zeit die Regattatermine 2024 in den Kalender zu schreiben.  
-Ende Januar wurden die Jeton-Regatten 2024 beim DSV für die Aufstellung einer Rangliste gemeldet. Da sich die Ranglistenordnung für das Jahr 2024 stark vereinfacht hat und fast alle Dinge der Klassenvereinigung überlassen werden, hat die Klassenvereinigung Asjeton beschlossen, die Anzahl der Boote die für eine Ranglistenregatta einmal durch Ziel gegangen sein müssen, auf **8** reduziert.  
+Ende Januar wurden die Jeton-Regatten 2024 beim DSV für die Aufstellung einer Rangliste gemeldet. Da sich die Ranglistenordnung für das Jahr 2024 stark vereinfacht hat und fast alle Dinge der Klassenvereinigung überlassen werden, hat die Klassenvereinigung Asjeton beschlossen, die Anzahl der Boote die für eine Ranglistenregatta bei einer Wettfahrt einmal über die Startlinie gegangen sein müssen, auf **8** reduziert.  
 
-Das bedeutet, das eine angemeldete Regatta Ranglistenstatus erhält, wenn bei einer Wettfahrt mindestens 8 Boote den Kurs abgesegelt und durch das Ziel gegangen sind. Hier nun die Termne, Orte und Ranglistenfaktoren. 
+Das bedeutet, das eine angemeldete Regatta Ranglistenstatus erhält, wenn bei einer Wettfahrt mindestens 8 Boote korrekt gestartet sind. Hier nun die Termne, Orte und Ranglistenfaktoren. 
 
 |Nummer |Termin             |Name                              | Faktor |Revier            |Veranstalter|
 |-------|-------------------|----------------------------------|--------|------------------|------------|
