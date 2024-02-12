@@ -9,4 +9,4 @@ Wenn Sie Mitglied werden wollen in der AS Jeton e.V. oder Mitglied sind und z.B.
 
 Bei Fragen senden Sie uns bitte eine E-Mail an <a href="javascript:location.href='mailto:' + ['asjeton', 'arcor.de'].join('@') + '?Subject=Mitgliedschaft'">asjeton # arcor.de</a>.
 
-Formulare: *folgen*
+Formulare: *folgen* 
