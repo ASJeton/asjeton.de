@@ -2,7 +2,7 @@ main:
   - title: Klassenvereinigung
     url: /kv
   - title: Training
-    url: /traning
+    url: /training
   - title: Das Boot
     url: /boot
   - title: Kontakt
@@ -20,5 +20,23 @@ sidebar-kv:
         url: "/kv/story"
       - title: "Klassenvorschrift"
         url: "/kv/vorschrift"
-      - title: "Mitglied:innen"
-        url: "/kv/mitglied"
+      - title: "Mitgliedschaft"
+        url: "/kv/mitgliedschaft"
+sidebar-training:
+  - title: "Training"
+    children:
+      - title: "AS Jeton Trainingswoche"
+        url: /training
+      - title: "Regattastützpunkt Berlin"
+        url:  /training/berlin
+      - title: Reviervertreter
+        url: /training/reviere
+sidebar-boot:
+  - title: "Das Boot"
+    children:
+      - title: "Steckbrief"
+        url: /boot
+      - title: "Handbuch"
+        url: /boot/handbuch
+      - title: "Tuning"
+        url: /boot/tuning
