@@ -1,5 +1,5 @@
 ---
-title: Mitgliedeschaft
+title: Mitgliedschaft
 permalink: /kv/mitgliedschaft
 layout: single
 sidebar:
