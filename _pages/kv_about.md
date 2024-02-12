@@ -15,4 +15,4 @@ sidebar:
 * gibt Hinweise und Tipps zur Optimierung der Segeltechnik, des Trimms und der Ausrüstung des Jetons
 * sind heiße, aber faire Regatta-Segler und verstehen nach dem Zieldurchgang gemeinsam zu feiern
 
-*Kurzum:* Wir sind eine sportliche Klasse für Jung und Alt, Frau und Mann, Erfahrene und Einsteiger. Und wir freuen  uns über jedes neue [Mitglied](/kv/mitglied).
+*Kurzum:* Wir sind eine sportliche Klasse für Jung und Alt, Frau und Mann, Erfahrene und Einsteiger. Und wir freuen  uns über jedes neue [Mitglied](/kv/mitgliedschaft).
