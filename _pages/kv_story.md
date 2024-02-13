@@ -23,5 +23,5 @@ Seit 2004 ist die ASJETON Inhaber einer Baulizenz der Jeton-Jolle.
 
 Das Herz der Jeton-Klasse schlägt in der [Jeton-Trainingsgruppe in Berlin](/training/berlin), die im [Berliner Yacht-Club](https://www.byc.berlin) beheimatet ist. Die Jeton-Flotte in Berlin ist mit 20 aktiven Booten die stärkste in Deutschland. Regatten werden häufig besucht und haben vielversprechend wachsende Teilnehmerzahlen.
 
-In 2024 wird es sieben Ranglistenregatten geben.
+In 2024 wird es sieben [Ranglistenregatten](https://ranglisten.net/de/jeton/regattas) geben.
 
