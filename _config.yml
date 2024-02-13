@@ -307,6 +307,7 @@ defaults:
       share: false
       related: true
       paginate: true
+      show_date: true
      #_pages 
   - scope:
       path: "_pages/"
@@ -319,3 +320,4 @@ defaults:
       share: false
       related: false
       paginate: false
+      show_date: false
