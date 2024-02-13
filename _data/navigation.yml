@@ -34,7 +34,7 @@ sidebar-training:
 sidebar-boot:
   - title: "Das Boot"
     children:
-      - title: "Steckbrief"
+      - title: "Portrait"
         url: /boot
       - title: "Handbuch"
         url: /boot/handbuch
