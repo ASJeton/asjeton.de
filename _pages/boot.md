@@ -27,6 +27,6 @@ Konstruktion: Rumpf
 <tr><td>Spinnacker</td><td>16,45 m²</td></tr>  
 <tr><td>Yardstickzahl ab Bj. 1995</td><td> 105</td></tr>  
 <tr><td>Yardstickzahl ältere Boote</td><td>	107</td></tr>  
-<tr><td>Bootswerft:</td><td>Jürgen Hein</td></tr>  
+<tr><td>Bootswerft:</td><td><a href="https://www.hein-bootswerft.de/jeton.html" target="_blank">Jürgen Hein</a></td></tr>  
 </table>
                                                                                                                                                  
