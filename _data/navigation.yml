@@ -1,4 +1,6 @@
 main:
+  - title: Termine
+    url: /termine
   - title: Klassenvereinigung
     url: /kv
   - title: Training
