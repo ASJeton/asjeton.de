@@ -9,4 +9,6 @@ gem "jekyll-remote-theme",  group: [:jekyll_plugins]
 gem "jekyll-include-cache"
 gem "kramdown-parser-gfm"
 gem "webrick"
-
+gem "kramdown-math-katex"
+gem "katex"
+gem "therubyracer"
