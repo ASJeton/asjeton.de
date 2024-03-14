@@ -67,7 +67,7 @@ RA(H)<sub>3</sub> = 95
 
 ### Rangliste
 Die Punkte für die Rangliste setzen sich aus den Regattapunkten (RA<sub>i</sub>) für die Ranglistenregatten die mit einem Faktor $$n_i=[0\dots m]$$ eingehen, wobei $$\sum{n_i}=9$$.
-Es werden insgesamt 9 Wertungen eingebracht, aus denen der Mittelwert gebiltet wird.
+Es werden insgesamt 9 Wertungen eingebracht, aus denen der Mittelwert gebildet wird.
 
 $$RL=\frac{\sum{n_i*RA_i}}{9}$$
 
