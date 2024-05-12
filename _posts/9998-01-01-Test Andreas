@@ -8,8 +8,8 @@ Das Erstellungsdatum des Posts entsprich `Jahr-Monat-Tag` des Dateinames. Man ka
 
 ```yaml
 ---
-title: Schöner Titel
-author: <dein name in _data/authors.yml> # oder author_profile: false
+title: Regattabericht: Aufholjagd auf dem Wasser / 71. Frühlingsregatta auf dem Tollensesee
+author: <Andreas/authors.yml> # oder author_profile: false
 last_modified_at: 9999-01-01T12:01:00+0100
 #tags: Neuer Post
 #categories: Regatta Termine 
