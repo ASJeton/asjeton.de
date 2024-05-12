@@ -1,13 +1,4 @@
 ---
-title: Wie erstellt man einen neuen Post
-last_modified_at: 9999-01-01T10:00:00+0100
-author: bernhard
----
-Um einen neuen Post zu verfassen, muss eine Datei unter `_posts` anlegt werden, die im folgenden Format `Jahr-Monot-Tag-Titel.md` benannt sein muss. Im Kopf der Datei ist mindestens der Titel `title` anzugeben.
-Das Erstellungsdatum des Posts entsprich `Jahr-Monat-Tag` des Dateinames. Man kann zusätzlich den Wert `last_modified_at`setzen um einen geänderten Posts zu markieren.
-
-```yaml
----
 title: Regattabericht: Aufholjagd auf dem Wasser / 71. Frühlingsregatta auf dem Tollensesee
 author: <Andreas/authors.yml> # oder author_profile: false
 last_modified_at: 9999-01-01T12:01:00+0100
