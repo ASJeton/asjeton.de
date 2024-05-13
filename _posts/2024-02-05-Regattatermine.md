@@ -20,7 +20,7 @@ Das bedeutet, das eine angemeldete Regatta Ranglistenstatus erhält, wenn bei ei
 |-------|-------------------|----------------------------------|--------|------------------|------------|
 |1  ✅	|27.-28.04.2024     |[Willi-Möllmer-Gedächtnispreis][#1]     |1,2     | Unterhavel       |SCO         |
 |2  ✅	|04-05.05.2024		|[Frühjahrsregatta][#2]				   |1,2|Tollensesee|SVN|
-|3      |08-09.06.2024		|Junibowle						   |1,0		|Wannsee |SCW-B|
+|3      |08-09.06.2024		|[Junibowle][#3]						   |1,0		|Wannsee |SCW-B|
 |4		|23-25.08.2024		|Nordlichtpokal					   |1,4		|Greifswalder Bodden|Asjeton|
 |5		|31.08-01.09.2024	|Herbstregatta #1				   |1,0		|Tollensesee|SVN|
 |6      |14.-15.09.2024     |Hostage-Valley-Lake-Challenge 2024| -      |Geiseltalsee      | |
@@ -37,5 +37,6 @@ Die Jeton Klasse hat eine [Ranglistenplanung][1] mit freundlicher Unterstützung
 [3]: https://www.dsv.org/segeln/wettsegeln-und-surfen/ "Deutscher Segler Verband"
 [#1]: https://manage2sail.com/de-DE/event/7a6020f6-cd05-42ff-8236-1f565cc8d434#!/results?classId=490bd166-bbd8-4be2-8343-d8a4377ee5c5
 [#2]: https://manage2sail.com/de-DE/event/Fruehjahrsregatta2024#!/results?classId=Jeton
+[#3]: /assets/doc/SCWB_AUSSCHREIBUNG_Junibowle_2024.pdf
 [#8]: https://manage2sail.com/de-DE/event/3a6a4237-9da4-4fad-ba49-1ffe4bde762c#!/classes
 [#9]: https://manage2sail.com/de-DE/event/LetzteHelden24#!/classes
