@@ -19,7 +19,7 @@ locale                   : "de-DE"
 title                    : "Asjeton Deutschland e.V."
 title_separator          : "-"
 subtitle                 : "Klassenvereinigung der Jetonsegler Deutschlands"
-name                     : "ASJeton"
+name                     : "Jeton"
 description              : "Herzlich Willkommen auf der Website der AS Jeton Klassenvereinigung. Hier finden Sie alles Wissenswerte rund um unsere Klassenvereinigung und die Informationen zum Segeln mit der Jeton. Die Jeton Klassenvereinigung fördert Trainingsmaßnahmen. Sie finden auf der Website einen Regatta- und Veranstaltungskalender sowie einen Marktplatz, in dem Sie Boote und Zubehör anbieten, aber auch Mitsegler suchen können."
 url                      : https://asjeton.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "AS Jeton"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -240,6 +240,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-remote-theme
+  - jekyll-seo-tag
   - kramdown-parser-gfm
 
 # mimic GitHub Pages with --safe
