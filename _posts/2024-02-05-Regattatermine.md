@@ -1,6 +1,6 @@
 ---
 title: Regattatermine 2024
-last_modified_at: 2024-05-13T11:57:00+01:00
+last_modified_at: 2024-06-13T13:30:00+02:00
 categories: Regatta
 tags: 
   - Regatta 
