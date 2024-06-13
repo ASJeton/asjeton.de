@@ -24,7 +24,7 @@ Das bedeutet, das eine angemeldete Regatta Ranglistenstatus erhält, wenn bei ei
 |4		|23-25.08.2024		|Nordlichtpokal					   |1,4		|Greifswalder Bodden|Asjeton|
 |5		|31.08-01.09.2024	|Herbstregatta #1				   |1,0		|Tollensesee|SVN|
 |6      |14.-15.09.2024     |Hostage-Valley-Lake-Challenge 2024| -      |Geiseltalsee      | |
-|7		|21-22.09.2024		|Herbstregatta #2				   |1,0		|Wannsee|SCW-B|
+|7		|21-22.09.2024		|Herbstregatta #2				   |1,0		|Wannsee|SCWB|
 |8		|12.-13.10.2024		|[Senatspreis][#8]					   |1,2		|Unterhavel/Wannsee|BYC|
 |9    |23.-24.11.2024   |[Letzte Helden][#9]           |   -   |Elbe|BSC|
 
