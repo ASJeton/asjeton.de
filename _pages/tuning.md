@@ -13,7 +13,7 @@ Auf Jeton-Regatten sieht man viele Jetons, die noch von Klepper gebaut und dann 
 
 Die Gruppenboote der Berliner Trainingsgruppe wurden schon vor längerer Zeit ausgerüstet. 2021 haben wir den Klepper-Jeton, den uns Ernst Tschirpig (ASJETON-Vorstand ..., verst. 2020) vererbt hat, wieder aufs Wasser gebracht. Hier konnten wir Rigg und Beschläge eines havarierten Jetons wieder verwenden, so dass das Projekt einigermaßen preiswert war.
 
-Im letzen Jahr haben wir uns zwei Klepper-Jetons vorgenommen. Einen Jeton komplett auszurüsten, ist jedoch ein ziemlicher Aufriss. Und die Kosten die Kosten für den Umbau liegen meist weit über dem Kaufpreis des Klepper-Rumpfes. Einen Hein-Jeton zu kaufen ist allemal der bessere Weg zu einem modernen Jeton - allerdings auch etwas teurer.
+Im letzen Jahr haben wir uns zwei Klepper-Jetons vorgenommen. Einen Jeton komplett auszurüsten, ist jedoch ein ziemlicher Aufriss. Und die Kosten für den Umbau liegen meist weit über dem Kaufpreis des Klepper-Rumpfes. Einen Hein-Jeton zu kaufen ist allemal der bessere Weg zu einem modernen Jeton - allerdings auch etwas teurer.
 
 Hat man einen guten Jeton-Rumpf geerbt oder gekauft, kann man es versuchen, das Boot modern auszurüsten, natürlich auch schrittweise.
 
@@ -23,7 +23,7 @@ Hat man einen guten Jeton-Rumpf geerbt oder gekauft, kann man es versuchen, das 
 * Man sollte richtig Zeit dafür einplanen - so nebenbei wird das nichts.
 * Sehr viel Zeit kann gespart werden, wenn man einen Raum, z. B. eine Garage hat, wo das Boot während des Umbaus bleiben kann und alle Werkzeuge und Materialien im Zugriff sind.
 
-  Wir haben unendlich viel Zeit verbraucht, Werkzeug und Material zu Hause ins Auto zu laden, vor Ort auszupacken oder x mal zun Kofferraum zu laufen. Und jedesmal musste das Boot aus und eingepackt werden.
+  Wir haben unendlich viel Zeit verbraucht, Werkzeug und Material zu Hause ins Auto zu laden, vor Ort auszupacken oder x mal zun Kofferraum zu laufen. Und an jedm Basteltag musste das Boot aus und eingepackt werden.
 
 ## Technische Tips
 * Zur Montage der Originalbeschläge hat Klepper Aluminium-Bleche eingelegt. Beschläge wurden mit Gewindeschrauben montiert. Dazu wurden in die Bleche Gewinde geschnitten. Einige der eingelegten Bleche können verwendet werden. Dazu braucht man dann einen 5mm-Gewindescheider. Die Bleche kann man mit Hilfe eines Metallsuchers lokalisieren. 
