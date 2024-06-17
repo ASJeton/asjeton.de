@@ -102,24 +102,29 @@ Position in Längsschiffrichtung:
 
 #### Ruder:
 * Ein neuer Ruder-Umriss wurde entwickelt. Der neue Umriss passt in die Ruderschablone, die in der Klassenvorschrift vorgeschrieben ist.
-  ![](https://md.nanologika.de/uploads/upload_6e9321e5f23de704aea410f47963abcd.jpg)
+  ![Ruderumriss-2000-2022](https://github.com/ASJeton/asjeton.de/assets/76402452/43f2b63b-5dee-40ea-9155-5bdf47dc5786)
 
 * Umgeformtes Klepper-Ruderblatt:
-![](https://md.nanologika.de/uploads/upload_3672c13c3d89420511734b67fb7d0ed7.jpg)
+  ![Klepper-Ruder-umgeformt](https://github.com/ASJeton/asjeton.de/assets/76402452/06dbbd1f-743e-439a-a52b-5e0591c12bf9)
+
 * Ein Modell zum 3D-Fräsen wurde erstellt. Ruderblätter mit Holzkern uns Carbon-Beschichtung wurden gebaut.
-![](https://md.nanologika.de/uploads/upload_5f23a99f3c87d01822c49aa8ff920e7c.jpg)
+  ![Ruder-gefräst-carbon](https://github.com/ASJeton/asjeton.de/assets/76402452/19d7804c-1fd2-4fb1-b597-5dfb3704be00)
 
 * Eine Negativ-Form ist in Vorbereitung.
 
 #### Ruderkopf:
 * Der Klepper-Ruderkopf kann verwendet werden. Die Pinne und der Ausleger sollten ersetzt werden.
   (Ruderblatt: Geändertes Klepper-Ruderblatt, Umriss 2000,  profiliert, verstärkt.)
-![](https://md.nanologika.de/uploads/upload_56b8f68dfec31c9ebcc0a4284ed90f19.jpg)
+  ![Ruderkopf-mit-Umriss-2000](https://github.com/ASJeton/asjeton.de/assets/76402452/73119fa1-185d-4dbc-826e-aa8c932232b7)
 
 #### Ruderbeschläge:
-* Die Original-Ruderbeschläge von Klepper snd zu kurz. Das Ruderblatt schlägt an der Klebekante unten am Spiegel an.
+* Die Original-Ruderbeschläge von Klepper sind zu kurz. Das Ruderblatt schlägt an der Klebekante unten am Spiegel an.
 * Die geschweißten Pins brechen manchmal heraus.
-* Ruderbeschläge für Marström-Tornado konnten verwendet werden, sind aber nicht mehr verfügbar.
+* Ruderbeschläge für Marström-Tornado haben sich bewährt, sind aber nicht mehr verfügbar.
+  ![Ruderbeschläge-Tornado](https://github.com/ASJeton/asjeton.de/assets/76402452/94c86602-d5d6-4387-bcdc-51edf397c276)
 * Wir haben Ruderbeschläge aus hochfestem Kunststoff gedruckt.
 
 #### Sockel für Achterholerklemmen:
+* Als Klemmen für die Luv-Spishot (Achterholer) verwenden wir eine Servo-Klemme direkt hinter der Wante.
+* Diese sollte auf einen Sockel montiert werden, vor allem wen Spischo-Barberholer verwendet werden.
+* Sockel 
