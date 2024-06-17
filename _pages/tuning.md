@@ -26,7 +26,7 @@ Hat man einen guten Jeton-Rumpf geerbt oder gekauft, kann man es versuchen, das 
   Wir haben unendlich viel Zeit verbraucht, Werkzeug und Material zu Hause ins Auto zu laden, vor Ort auszupacken oder x mal zun Kofferraum zu laufen. Und jedesmal musste das Boot aus und eingepackt werden.
 
 ## Technische Tips
-* Zur Montage der Originalbeschläge hat Klepper Aluminium-Bleche einegelegt. Beschläge wurden mit Gewindeschrauben montiert. Dazu wurden in die Bleche Gewinde geschnitten. Einige der eingelegten Bleche können verwendet werden. Dazu braucht man dann einen 5mm-Gewindescheider. Die Bleche kann man mit Hilfe eines Metallsuchers lokalisieren. 
+* Zur Montage der Originalbeschläge hat Klepper Aluminium-Bleche eingelegt. Beschläge wurden mit Gewindeschrauben montiert. Dazu wurden in die Bleche Gewinde geschnitten. Einige der eingelegten Bleche können verwendet werden. Dazu braucht man dann einen 5mm-Gewindescheider. Die Bleche kann man mit Hilfe eines Metallsuchers lokalisieren. 
 * Für neue Beschläge muss man Brettchen aus Bootsbausperrholz einkleben. Die betreffenden Stellen erreicht man durch zwei neue Luken.
 * Einige Schrauben (Blechschrauben) können einfach ins Laminat geschraubt werden.
 * Einige Beschläge werden mit Gewindeschrauben und Muttern befestigt.
