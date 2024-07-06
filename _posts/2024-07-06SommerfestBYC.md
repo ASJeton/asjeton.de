@@ -1,5 +1,5 @@
 ---
-title: 'BYC Sommerfest findet am 06.Juli 2024 statt'
+title: BYC Sommerfest findet am 06.Juli 2024 statt
 date: 2024-07-01
 categories: Information
 author: Andreas
