@@ -9,6 +9,7 @@ classes: wide
 #image:assets/img/2024/2024_07_01_BYC_Sommerfest_2024.jpg
 ---
 ![Desktop View](/assets/img/2024/2024_07_01_BYC_Sommerfest_2024.jpg)
+
 Liebe Berliner Mitglieder,
 
 es ist wieder soweit! Unser jährliches Sommerfest vom Berliner Yachtclub steht vor der Tür und wir laden euch herzlich ein, am 06. Juli 2024 einen unvergesslichen Tag mit uns zu verbringen.
