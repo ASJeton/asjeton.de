@@ -1,6 +1,6 @@
 ---
 title: Regattatermine 2024
-last_modified_at: 2024-06-13T13:30:00+02:00
+last_modified_at: 2024-08-04T21:50:00+02:00
 categories: Regatta
 tags: 
   - Regatta 
@@ -21,8 +21,8 @@ Das bedeutet, das eine angemeldete Regatta Ranglistenstatus erhält, wenn bei ei
 |1  ✅	|27.-28.04.2024     |[Willi-Möllmer-Gedächtnispreis][#1]     |1,2     | Unterhavel       |SCO         |
 |2  ✅	|04-05.05.2024		|[Frühjahrsregatta][#2]				   |1,2|Tollensesee|SVN|
 |3  ✅ |08-09.06.2024		|[Junibowle][#3]						   |1,0		|Wannsee |SCWB|
-|4		|23-25.08.2024		|Nordlichtpokal					   |1,4		|Greifswalder Bodden|Asjeton|
-|5		|31.08-01.09.2024	|Herbstregatta #1				   |1,0		|Tollensesee|SVN|
+|4	✅	|23-25.08.2024		|[Nordlichtpokal][#4]					   |1,4		|Greifswalder Bodden|Asjeton|
+|5	✅	|31.08-01.09.2024	|[Herbstregatta #1][#5]				   |1,0		|Tollensesee|SVN|
 |6      |14.-15.09.2024     |Hostage-Valley-Lake-Challenge 2024| -      |Geiseltalsee      | |
 |7		|21-22.09.2024		|Herbstregatta #2				   |1,0		|Wannsee|SCWB|
 |8		|12.-13.10.2024		|[Senatspreis][#8]					   |1,2		|Unterhavel/Wannsee|BYC|
@@ -38,5 +38,7 @@ Die Jeton Klasse hat eine [Ranglistenplanung][1] mit freundlicher Unterstützung
 [#1]: https://manage2sail.com/de-DE/event/7a6020f6-cd05-42ff-8236-1f565cc8d434#!/results?classId=490bd166-bbd8-4be2-8343-d8a4377ee5c5
 [#2]: https://manage2sail.com/de-DE/event/Fruehjahrsregatta2024#!/results?classId=Jeton
 [#3]: https://ranglisten.net/de/jeton/result/3
+[#4]: https://ranglisten.net/de/jeton/result/4
+[#5]: https://manage2sail.com/de-DE/event/a465e832-030d-402e-8368-5d50691b9bcf#!/results?classId=jeton
 [#8]: https://manage2sail.com/de-DE/event/3a6a4237-9da4-4fad-ba49-1ffe4bde762c#!/classes
 [#9]: https://manage2sail.com/de-DE/event/LetzteHelden24#!/classes
