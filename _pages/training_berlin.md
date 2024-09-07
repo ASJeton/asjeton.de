@@ -1,5 +1,5 @@
 ---
-title: Regattastützpunkt Berlin
+title: Regattastützpunkt Berlin Wannsee
 layout: single
 permalink: /training/berlin
 sidebar:
