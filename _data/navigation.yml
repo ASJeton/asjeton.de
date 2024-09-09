@@ -29,8 +29,10 @@ sidebar-training:
     children:
       - title: "AS Jeton Trainingswoche"
         url: /training
-      - title: "Regattastützpunkt Berlin"
-        url:  /training/berlin
+      - title: "Regattastützpunkt Berlin Wannsee"
+        url:  /training/berlin_wannsee
+      - title: "Training Berlin Tegleler See"
+        url: /training/berlin_tegeler_see
       - title: Reviervertreter
         url: /training/reviere
 sidebar-boot:

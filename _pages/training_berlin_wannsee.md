@@ -1,7 +1,7 @@
 ---
 title: Regattastützpunkt Berlin Wannsee
 layout: single
-permalink: /training/berlin
+permalink: /training/berlin_wannsee
 sidebar:
   nav: sidebar-training
 ---
