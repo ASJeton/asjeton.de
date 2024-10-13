@@ -1,6 +1,6 @@
 ---
 title: Regattatermine 2024
-last_modified_at: 2024-09-25T21:50:00+02:00
+last_modified_at: 2024-10-13T21:02:00+02:00
 categories: Regatta
 tags: 
   - Regatta 
@@ -25,7 +25,7 @@ Das bedeutet, das eine angemeldete Regatta Ranglistenstatus erhält, wenn bei ei
 |5	✅	|31.08-01.09.2024	|[Herbstregatta #1][#5]				   |1,0		|Tollensesee|SVN|
 |6  ✅    |14.-15.09.2024     |Hostage-Valley-Lake-Challenge 2024| -      |Geiseltalsee      | |
 |7	✅	|21-22.09.2024		|[Herbstregatta #2][#7]				   |1,0		|Wannsee|SCWB|
-|8		|12.-13.10.2024		|[Senatspreis][#8]					   |1,2		|Unterhavel/Wannsee|BYC|
+|8	✅	|12.-13.10.2024		|[Senatspreis][#8]					   |1,2		|Unterhavel/Wannsee|BYC|
 |9    |23.-24.11.2024   |[Letzte Helden][#9]           |   -   |Elbe|BSC|
 
 [Aktuelle Ergebnisse][1] sind in der Rangliste enthalten.
@@ -41,5 +41,5 @@ Die Jeton Klasse hat eine [Ranglistenplanung][1] mit freundlicher Unterstützung
 [#4]: https://ranglisten.net/de/jeton/result/4
 [#5]: https://manage2sail.com/de-DE/event/a465e832-030d-402e-8368-5d50691b9bcf#!/results?classId=jeton
 [#7]: https://ranglisten.net/de/jeton/result/6
-[#8]: https://manage2sail.com/de-DE/event/3a6a4237-9da4-4fad-ba49-1ffe4bde762c#!/classes
+[#8]: https://manage2sail.com/de-DE/event/SP24#!/results?classId=Jeton
 [#9]: https://manage2sail.com/de-DE/event/LetzteHelden24#!/classes
