@@ -26,7 +26,7 @@ Das bedeutet, das eine angemeldete Regatta Ranglistenstatus erhält, wenn bei ei
 |6  ✅    |14.-15.09.2024     |Hostage-Valley-Lake-Challenge 2024| -      |Geiseltalsee      | |
 |7	✅	|21-22.09.2024		|[Herbstregatta #2][#7]				   |1,0		|Wannsee|SCWB|
 |8	✅	|12.-13.10.2024		|[Senatspreis][#8]					   |1,2		|Unterhavel/Wannsee|BYC|
-|9    |23.-24.11.2024   |[Letzte Helden][#9]           |   -   |Elbe|BSC|
+|9  ✅ |23.-24.11.2024   |[Letzte Helden][#9]           |   -   |Elbe|BSC|
 
 [Aktuelle Ergebnisse][1] sind in der Rangliste enthalten.
 
