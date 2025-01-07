@@ -6,14 +6,14 @@
         {
             "label": "Build",
             "type": "shell",
-            "command": "jekyll build",
+            "command": "bundle exec jekyll build",
             "group": "build",
             "problemMatcher": []
         },
         {
             "label": "Serve",
             "type": "shell",
-            "command": "jekyll serve -w -l",
+            "command": "bundle exec jekyll serve -w -l",
             "group": {
                 "kind": "build",
                 "isDefault": true
