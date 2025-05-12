@@ -1,6 +1,6 @@
 ---
 title: Regattatermine 2025
-last_modified_at: 2025-01-07T17:00:00+01:00
+last_modified_at: 2025-05-12T14:00:00+01:00
 categories: Regatta
 tags: 
   - Regatta 
