@@ -21,7 +21,7 @@ Wir freuen uns auf zahlreiche Anmeldungen und Teilnahmen an Regatten in 2025.
 |2 ✅   |10.-11.05.2025		|[Frühjahrsregatta][#2]				   |1,2|Tollensesee|SVN|
 |3      |~~17.-18.05.2025~~ |~~Hostage-Valley-Lake-Challenge 2025~~| -      |Geiseltalsee      | |
 |4      |21.-22.06.2025		|[Junibowle][#3]						   |1,0		|Wannsee |SCWB|
-|5	    |01.-03.08.2025|[Nordlichtpokal][#4]					   |1,3		|Warnemümde/Ostsee|Asjeton|
+|5	    |01.-03.08.2025|[Nordlichtpokal][#4]					   |1,3		|Warnemünde/Ostsee|Asjeton|
 |6	    |06.-07.09.2025	|[Herbstregatta #1][#5]				   |1,0		|Tollensesee|SVN|
 |7      |13.-14.09.2025		|[Herbstregatta #2][#7]				   |1,0		|Wannsee|SCWB|
 |8		|11.-12.10.2025		|[Senatspreis][#8]					   |1,3		|Unterhavel/Wannsee|BYC|
