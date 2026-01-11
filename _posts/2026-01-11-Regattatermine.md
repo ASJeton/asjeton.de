@@ -20,6 +20,7 @@ Wir freuen uns auf zahlreiche Anmeldungen und Teilnahmen an Regatten in 2026.
 |1      |25.-26.04.2026     |[Willi-Möllmer-Gedächtnispreis][#3]   |1,2     | Unterhavel       |SCO         |
 |2      |09.-10.05.2026		|[Frühjahrsregatta][#2]				   |1,2|Tollensesee|SVN|
 |4      |20.-21.06.2026		|[Junibowle][#3]						   |1,0		|Wannsee |SCWB|
+|       |09.-15.08.2026     | Jeton Trainingswoche        |      |Warnemünde|Asjeton|
 |5	    |13.-15.08.2026|[Nordlichtpokal][#4]					   |1,3		|Warnemünde/Ostsee|Asjeton|
 |6	    |05.-06.09.2026	|[Herbstregatta #1][#3]				   |1,0		|Tollensesee|SVN|
 |7      |19.-20.09.2026		|[Herbstregatta #2][#7]				   |1,0		|Wannsee|SCWB|
