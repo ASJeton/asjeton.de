@@ -22,7 +22,7 @@ Wir freuen uns auf zahlreiche Anmeldungen und Teilnahmen an Regatten in 2026.
 |4  ✅	 |20.-21.06.2026		|[Junibowle][#3]						   |1,0		|Wannsee |SCWB|
 |       |09.-15.08.2026     | Jeton Trainingswoche        |      |Warnemünde|Asjeton|
 |5	    |13.-15.08.2026|[Nordlichtpokal][#4]					   |1,3		|Warnemünde/Ostsee|Asjeton|
-|6	    |05.-06.09.2026	|[Herbstregatta #1][#3]				   |1,0		|Tollensesee|SVN|
+|6	    |05.-06.09.2026	|[Herbstregatta #1][#5]				   |1,0		|Tollensesee|SVN|
 |7      |19.-20.09.2026		|[Herbstregatta #2][#7]				   |1,0		|Wannsee|SCWB|
 |8		  |10.-11.10.2026		|[Senatspreis][#8]					   |1,3		|Unterhavel/Wannsee|BYC|
 |9      | Termin noch nicht bekannt  |[Letzte Helden][#9]           |   -   |Elbe|BSC|
@@ -38,7 +38,7 @@ Die Jeton Klasse hat eine [Ranglistenplanung][1] mit freundlicher Unterstützung
 [#2]: https://manage2sail.com/de-DE/event/3b2213d9-d484-45bd-870c-5fbb50e6777f#!/results?classId=Jeton
 [#3]: https://ranglisten.net/de/jeton/result/21
 [#4]: https://ranglisten.net/de/jeton/
-[#5]: https://manage2sail.com/de-DE/event/e9d75a7c-30db-4dd7-8a1f-ddef195bfa2e#!/entries?classId=jeton
+[#5]: https://manage2sail.com/de-DE/event/6c76e181-6fde-4bf1-9843-808ebf6514ad#!/results?classId=jeton
 [#7]: https://ranglisten.net/de/jeton/
 [#8]: https://manage2sail.com/de-DE/event/SP26#!/
 [#9]: https://manage2sail.com/de-de/event/LetzteHelden26#!/
